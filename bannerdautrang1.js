@@ -118,7 +118,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/Hu5nJ4' target='_blank'><img src='http://batdongsanasia.com/upload/images/Golden%20Bay%20-%20Tong%20quan_009.png' width='500px'/><br/>Biệt Thự Giá Tốt Nhất Nha Trang</a>.Liên Hệ PKD CDT 0913 089 778. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/Hu5nJ4' target='_blank'><img src='http://batdongsanasia.com/upload/images/Cam_k%E1%BA%BFt_sinh_l%E1%BB%9Di(1).jpg' width='500px'/><br/>Biệt Thự Biển Nha Trang Giá Tốt Nhất</a>.Liên Hệ Sàn GD 0913 089 778. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
